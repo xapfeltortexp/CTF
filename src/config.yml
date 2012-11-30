@@ -1,0 +1,5 @@
+MySQLHost: localhost
+MySQLPort: 3306
+MySQLPassword: YourPassword
+MySQLTable: CTF
+MySQLUser: root
